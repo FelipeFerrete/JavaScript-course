@@ -38,7 +38,13 @@ HTML: Estrutura básica da página.
 
 CSS: Estilização do jogo.
 
--- JavaScript: Lógica do jogo, manipulação do DOM e uso da Web Speech API.
+JavaScript: Lógica do jogo, manipulação do DOM e uso da Web Speech API.
+
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
 # 📂 Como Executar o Projeto
 
