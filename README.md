@@ -38,7 +38,7 @@ HTML: Estrutura básica da página.
 
 CSS: Estilização do jogo.
 
-# JavaScript: Lógica do jogo, manipulação do DOM e uso da Web Speech API.
+-- JavaScript: Lógica do jogo, manipulação do DOM e uso da Web Speech API.
 
 # 📂 Como Executar o Projeto
 
@@ -63,4 +63,4 @@ Ou acesse [https://js-course-2.vercel.app](https://js-course-2.vercel.app)
 
 Este projeto é de uso livre. Sinta-se à vontade para contribuir e melhorar o código!
 
-👨‍💻 Desenvolvido por ### Felipe Ferrete.
+👨‍💻 Desenvolvido por # Felipe Ferrete.
