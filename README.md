@@ -6,17 +6,17 @@ Este é um jogo simples e divertido desenvolvido em JavaScript. O objetivo do jo
 
 # 🚀 Funcionalidades
 
-# 🔢 Geração de um número aleatório entre 0 e 10.
+ 🔢 Geração de um número aleatório entre 0 e 10.
 
-# ✅ Verificação se o palpite do jogador está correto.
+ ✅ Verificação se o palpite do jogador está correto.
 
-# 📉 Dicas informando se o número secreto é maior ou menor.
+ 📉 Dicas informando se o número secreto é maior ou menor.
 
-# 🔄 Contador de tentativas.
+ 🔄 Contador de tentativas.
 
-# 🎮 Reinício do jogo ao acertar o número.
+ 🎮 Reinício do jogo ao acertar o número.
 
-# 🔊 Suporte a áudio com Web Speech API para leitura das mensagens (se suportado pelo navegador).
+ 🔊 Suporte a áudio com Web Speech API para leitura das mensagens (se suportado pelo navegador).
 
 # 🎮 Como Jogar
 
@@ -32,13 +32,13 @@ Quando acertar, o jogo mostrará quantas tentativas foram necessárias.
 
 Clique no botão de reiniciar para jogar novamente.
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
 HTML: Estrutura básica da página.
 
 CSS: Estilização do jogo.
 
-#JavaScript: Lógica do jogo, manipulação do DOM e uso da Web Speech API.
+# JavaScript: Lógica do jogo, manipulação do DOM e uso da Web Speech API.
 
 # 📂 Como Executar o Projeto
 
