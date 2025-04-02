@@ -1,24 +1,24 @@
-###Jogo do Número Secreto
+### Jogo do Número Secreto
 
-#📌 Sobre o Jogo
+# 📌 Sobre o Jogo
 
 Este é um jogo simples e divertido desenvolvido em JavaScript. O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente entre 0 e 10. A cada tentativa, o jogador recebe dicas para chegar mais perto da resposta correta.
 
-#🚀 Funcionalidades
+# 🚀 Funcionalidades
 
-#🔢 Geração de um número aleatório entre 0 e 10.
+# 🔢 Geração de um número aleatório entre 0 e 10.
 
-#✅ Verificação se o palpite do jogador está correto.
+# ✅ Verificação se o palpite do jogador está correto.
 
-#📉 Dicas informando se o número secreto é maior ou menor.
+# 📉 Dicas informando se o número secreto é maior ou menor.
 
-#🔄 Contador de tentativas.
+# 🔄 Contador de tentativas.
 
-#🎮 Reinício do jogo ao acertar o número.
+# 🎮 Reinício do jogo ao acertar o número.
 
-#🔊 Suporte a áudio com Web Speech API para leitura das mensagens (se suportado pelo navegador).
+# 🔊 Suporte a áudio com Web Speech API para leitura das mensagens (se suportado pelo navegador).
 
-#🎮 Como Jogar
+# 🎮 Como Jogar
 
 Escolha um número entre 0 e 10 e insira no campo de entrada.
 
@@ -40,7 +40,7 @@ CSS: Estilização do jogo.
 
 #JavaScript: Lógica do jogo, manipulação do DOM e uso da Web Speech API.
 
-#📂 Como Executar o Projeto
+# 📂 Como Executar o Projeto
 
 Clone o repositório:
 
@@ -52,6 +52,8 @@ cd nome-do-repositorio
 
 Abra o arquivo index.html em um navegador.
 
+Ou acesse [https://js-course-2.vercel.app](https://js-course-2.vercel.app)
+
 📷 Exemplo de Tela
 
 ![image](https://github.com/user-attachments/assets/18be4c53-3bd5-400f-aeab-4559874c2af8)
@@ -61,4 +63,4 @@ Abra o arquivo index.html em um navegador.
 
 Este projeto é de uso livre. Sinta-se à vontade para contribuir e melhorar o código!
 
-👨‍💻 Desenvolvido por Felipe Ferrete.
+👨‍💻 Desenvolvido por ### Felipe Ferrete.
